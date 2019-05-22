@@ -20,7 +20,7 @@ import javafx.scene.layout.Pane;
 
 public class LottoNezetController implements Initializable {
 //<editor-fold defaultstate="collapsed" desc="Class Variables">
-    private final int MAX = 99;
+    private final int MAX = 90;
     private final int MIN = 1;
     private final String WIN0 = "Sajnos nem nyertél semmi.";
     private final String WIN1 = "Egyesed van a lottón, sajnos ez nem fizet semmit.";
